@@ -374,7 +374,7 @@ button {
 .text-bg a:hover {
      background-color: #02fee5;
      color: #000;
-     transition: ease-in all 0.5s;
+     transition: ease-in all 0.2s;
      border-radius: 26px;
 }
 
@@ -406,15 +406,18 @@ button {
 }
 
 
+
+
+
 /** blog_main section **/
 .blog_main {margin-top: 85px;}
 .blog_main .span {font-size: 17px; line-height: 20px; color: #2d2d2d;}
-.our_two_box {box-shadow: #ddd 0px 0px 0px 0px; margin-bottom: 90px;}
+.our_two_box {box-shadow: #ddd 0px 0px 0px 0px; margin-bottom: 30px;}
 .our_text_box {padding: 1px 30px 1px 1px;}
 .our_img figure {margin: 0; padding: 15px;}
 .our_img figure img {width: 100%;}
 .awesome {padding-bottom:40px; font-size: 26px; line-height: 38px; color:#333334; } 
-.our_text_box p {padding-bottom: 50px; color: #3c3c3c; display: inline-block; } 
+.our_text_box p { color: #3c3c3c; display: inline-block; } 
 .flot_left1 {float: left; padding: 0;} 
 ul.like {float: right;}
 ul.like li {display: inline-block;}

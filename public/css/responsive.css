@@ -61,6 +61,23 @@ line-height: 25px;}
 display: none;
 }
 
+#resume-experience{
+    display: none;
+}
+
+.text-bg a:hover{
+    background-color: #02fee5;
+    color: #000;
+    transition: none;
+    border-radius: 26px;
+}
+
+.text-bg a{
+    background-color: #02fee5;
+    color: #000;
+    
+    border-radius: 26px;
+}
 
 .banner_main {
     padding: 30px 0 90px 0;
@@ -132,6 +149,23 @@ ul.padding_left2 li img {padding: 0px 10px 0px 19px;}
 }
 .resume-grid{
     display: none;
+    }
+    #resume-experience{
+        display: none;
+    }
+
+    .text-bg a:hover{
+        background-color: #02fee5;
+        color: #000;
+        transition: none;
+        border-radius: 26px;
+    }
+    
+    .text-bg a{
+        background-color: #02fee5;
+        color: #000;
+        
+        border-radius: 26px;
     }
 
 .text-img {
