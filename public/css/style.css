@@ -546,10 +546,11 @@ margin-left: 5px;
 
 .resume p {
     padding-left: 10px;
+    line-height: 35px;
 }
 
-li.ba{
-     padding-left: 50px;
+.resume li{
+     list-style-type: none;
 }
 
 .resume-grid{
