@@ -126,7 +126,7 @@ li,
 ol {
      margin: 0px;
      padding: 0px;
-     list-style: none;
+     
 }
 
 p {
@@ -540,6 +540,16 @@ ul.padding_left2 li img {padding: 0px 10px 0px 30px;}
 .resume{
      color: #000;
      font-size: large;
+
+}
+
+
+.resume p {
+    padding-left: 10px;
+}
+
+li.ba{
+     padding-left: 50px;
 }
 
 .resume-grid{
