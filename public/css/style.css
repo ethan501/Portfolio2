@@ -419,6 +419,7 @@ button {
 
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
 .our_img figure img {
   width: 100%;
 }
@@ -607,6 +608,10 @@ ul.padding_left2 li img {
 .resume-grid-item img {
   width: auto;
   height: auto;
+}
+
+.resume-subheading {
+  font-weight: 500;
 }
 
 /* end of resume section */
