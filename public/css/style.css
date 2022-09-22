@@ -631,6 +631,14 @@ ul.padding_left2 li img {
   padding-top: 90px;
 }
 
+.contact-img {
+  transition: 0.5s cubic-bezier(0.82, -3.04, 0, 3.86);
+}
+
+.contact-img:hover {
+  transform: rotate(5deg);
+}
+
 .main_form {
   padding: 50px 50px;
   border: #046c58 solid 1px;
