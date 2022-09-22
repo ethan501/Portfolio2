@@ -477,7 +477,7 @@ ul.withi_color {
 .padding_flot {
   padding-bottom: 0;
   display: inline-block;
-  float: left;
+  /* float: left; */
   font-size: 20px;
   padding-right: 14px;
 }
